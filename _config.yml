@@ -113,7 +113,7 @@ colorchoice: lavenderred
 # You can see these color choices in action at https://digitalarcplatform.kalanicraig.com/docs/
 # Uncomment the line for the color you like. Comment out all of the other lines.
 
-accentchoice: accent-darkred # Dark red
+#accentchoice: accent-darkred # Dark red
 #accentchoice: accent-red # Bright red
 #accentchoice: accent-pink # Deep pink
 #accentchoice: accent-orange # Tangerine Orange
@@ -122,7 +122,7 @@ accentchoice: accent-darkred # Dark red
 #accentchoice: accent-navy # Navy blue
 #accentchoice: accent-blue # Medium blue
 #accentchoice: accent-bluegrey # Blue Grey
-#accentchoice: accent-purple # Grape purple
+accentchoice: accent-purple # Grape purple
 #accentchoice: accent-grey # Mid Grey
 
 ##############################################
