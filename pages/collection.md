@@ -1,5 +1,5 @@
 ---
-title: Our Collection
+title: Collection
 layout: collection
 permalink: /collection
 ---
