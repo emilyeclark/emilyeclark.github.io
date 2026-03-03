@@ -1,5 +1,5 @@
 ---
-title: EC Test Site
+title: Emily E Clark
 layout: homepage
 permalink: /
 ---
